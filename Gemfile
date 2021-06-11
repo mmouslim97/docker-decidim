@@ -28,10 +28,10 @@ gem "bootsnap", "~> 1.3"
 
 gem "dotenv-rails"
 
-gem "puma", "~> 5.0"
+gem "puma", "~> 5.3.1"
 gem "uglifier", "~> 4.1"
 
-gem "faker", "~> 1.8"
+gem "faker", "~> 2.14"
 
 gem "ruby-progressbar"
 
